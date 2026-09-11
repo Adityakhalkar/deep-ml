@@ -1,6 +1,6 @@
 # Deep-ML
 
-[![Deep-ML](https://www.deep-ml.com/api/badge/Adityakhalkar.svg?repo=deep-ml)](https://www.deep-ml.com)
+[![Deep-ML](https://www.deep-ml.com/api/badge/Adityakhalkar.svg?repo=deep-ml)](https://Adityakhalkar.github.io/deep-ml/)
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
