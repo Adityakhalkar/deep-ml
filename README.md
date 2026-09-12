@@ -1,7 +1,5 @@
 # Deep-ML
 
-[![Deep-ML](https://www.deep-ml.com/api/badge/Adityakhalkar.svg?repo=deep-ml)](https://Adityakhalkar.github.io/deep-ml/)
-
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
 **3** solved · 2 problems · 0 labs · 1 math
