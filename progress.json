@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:04:26.811Z",
+  "generated_at": "2026-09-15T16:04:28.484Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -204,6 +204,19 @@
       "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
       "first_solved_at": "2024-12-21T14:35:47.751Z",
       "last_pushed_at": "2024-12-21T14:35:47.751Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2024-12-22T14:16:13.563Z",
+      "last_pushed_at": "2024-12-22T14:16:13.563Z",
       "language": "python",
       "lines": 11
     }
