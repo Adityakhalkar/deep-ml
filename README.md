@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 36 problems · 1 labs · 1 math
+**39** solved · 37 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-08-22 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-03-21 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2025-03-21 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
+| [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-11-08 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-01-05 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2025-03-21 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-12-28 | [solution](problems/0017-k-means-clustering) |
