@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:04:18.005Z",
+  "generated_at": "2026-09-15T16:04:20.128Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -115,6 +115,45 @@
       "last_pushed_at": "2024-12-12T14:02:34.992Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2024-12-13T14:56:33.981Z",
+      "last_pushed_at": "2024-12-13T14:56:33.981Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2024-12-13T16:35:30.982Z",
+      "last_pushed_at": "2024-12-13T16:35:30.982Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2024-12-13T16:35:56.506Z",
+      "last_pushed_at": "2024-12-13T16:35:56.506Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
