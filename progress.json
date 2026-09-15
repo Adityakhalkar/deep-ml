@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:04:28.484Z",
+  "generated_at": "2026-09-15T16:04:30.084Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -219,6 +219,32 @@
       "last_pushed_at": "2024-12-22T14:16:13.563Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2024-12-26T07:25:36.951Z",
+      "last_pushed_at": "2024-12-26T07:25:36.951Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2024-12-26T09:19:28.059Z",
+      "last_pushed_at": "2024-12-26T09:19:28.059Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
