@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 35 problems · 0 labs · 1 math
+**37** solved · 36 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-12 | [solution](problems/0002-transpose-of-a-matrix) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2025-03-21 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-12-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-08-22 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-03-21 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2025-03-21 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-01-05 | [solution](problems/0018-implement-k-fold-cross-validation) |
